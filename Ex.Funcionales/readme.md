@@ -4,3 +4,5 @@
 - Foreach
 - Do
 - While
+- Switch
+

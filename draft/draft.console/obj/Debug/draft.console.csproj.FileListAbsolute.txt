@@ -5,3 +5,13 @@ C:\git\curso-csharp-04\draft\draft.console\obj\Debug\draft.console.csprojAssembl
 C:\git\curso-csharp-04\draft\draft.console\obj\Debug\draft.console.csproj.CoreCompileInputs.cache
 C:\git\curso-csharp-04\draft\draft.console\obj\Debug\draft.console.exe
 C:\git\curso-csharp-04\draft\draft.console\obj\Debug\draft.console.pdb
+C:\git\curso-csharp-2019\draft\draft.console\bin\Debug\draft.console.exe.config
+C:\git\curso-csharp-2019\draft\draft.console\bin\Debug\draft.console.exe
+C:\git\curso-csharp-2019\draft\draft.console\bin\Debug\draft.console.pdb
+C:\git\curso-csharp-2019\draft\draft.console\bin\Debug\Ex.Funcionales.dll
+C:\git\curso-csharp-2019\draft\draft.console\bin\Debug\Ex.Funcionales.pdb
+C:\git\curso-csharp-2019\draft\draft.console\obj\Debug\draft.console.csprojAssemblyReference.cache
+C:\git\curso-csharp-2019\draft\draft.console\obj\Debug\draft.console.csproj.CoreCompileInputs.cache
+C:\git\curso-csharp-2019\draft\draft.console\obj\Debug\draft.console.csproj.CopyComplete
+C:\git\curso-csharp-2019\draft\draft.console\obj\Debug\draft.console.exe
+C:\git\curso-csharp-2019\draft\draft.console\obj\Debug\draft.console.pdb
