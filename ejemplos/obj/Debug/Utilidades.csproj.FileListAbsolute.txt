@@ -1,0 +1,6 @@
+C:\git\curso-csharp-04\ejemplos\bin\Debug\Utilidades.dll
+C:\git\curso-csharp-04\ejemplos\bin\Debug\Utilidades.pdb
+C:\git\curso-csharp-04\ejemplos\obj\Debug\Utilidades.csprojAssemblyReference.cache
+C:\git\curso-csharp-04\ejemplos\obj\Debug\Utilidades.csproj.CoreCompileInputs.cache
+C:\git\curso-csharp-04\ejemplos\obj\Debug\Utilidades.dll
+C:\git\curso-csharp-04\ejemplos\obj\Debug\Utilidades.pdb

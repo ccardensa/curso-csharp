@@ -1,0 +1,12 @@
+C:\git\curso-csharp-04\ejemplo\obj\Debug\Console App.csprojAssemblyReference.cache
+C:\git\curso-csharp-04\ejemplo\obj\Debug\Console App.csproj.CoreCompileInputs.cache
+C:\git\curso-csharp-04\ejemplo\bin\Debug\Console App.exe.config
+C:\git\curso-csharp-04\ejemplo\bin\Debug\Console App.exe
+C:\git\curso-csharp-04\ejemplo\bin\Debug\Console App.pdb
+C:\git\curso-csharp-04\ejemplo\bin\Debug\Entidades.dll
+C:\git\curso-csharp-04\ejemplo\bin\Debug\Utilidades.dll
+C:\git\curso-csharp-04\ejemplo\bin\Debug\Utilidades.pdb
+C:\git\curso-csharp-04\ejemplo\bin\Debug\Entidades.pdb
+C:\git\curso-csharp-04\ejemplo\obj\Debug\Console App.csproj.CopyComplete
+C:\git\curso-csharp-04\ejemplo\obj\Debug\Console App.exe
+C:\git\curso-csharp-04\ejemplo\obj\Debug\Console App.pdb
