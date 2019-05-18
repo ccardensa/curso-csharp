@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Ex.Funcionales
 {
-    public class Class1
+    public class Condicionantes
     {
+
     }
 }
