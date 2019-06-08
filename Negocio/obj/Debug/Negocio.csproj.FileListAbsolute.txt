@@ -1,6 +1,0 @@
-C:\git\curso-csharp-04\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
-C:\git\curso-csharp-04\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
-C:\git\curso-csharp-04\Negocio\bin\Debug\Negocio.dll
-C:\git\curso-csharp-04\Negocio\bin\Debug\Negocio.pdb
-C:\git\curso-csharp-04\Negocio\obj\Debug\Negocio.dll
-C:\git\curso-csharp-04\Negocio\obj\Debug\Negocio.pdb

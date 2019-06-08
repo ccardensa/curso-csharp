@@ -1,6 +1,0 @@
-C:\git\curso-csharp-04\draft\draft.entity\bin\Debug\draft.entity.dll
-C:\git\curso-csharp-04\draft\draft.entity\bin\Debug\draft.entity.pdb
-C:\git\curso-csharp-04\draft\draft.entity\obj\Debug\draft.entity.csprojAssemblyReference.cache
-C:\git\curso-csharp-04\draft\draft.entity\obj\Debug\draft.entity.csproj.CoreCompileInputs.cache
-C:\git\curso-csharp-04\draft\draft.entity\obj\Debug\draft.entity.dll
-C:\git\curso-csharp-04\draft\draft.entity\obj\Debug\draft.entity.pdb

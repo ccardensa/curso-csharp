@@ -1,6 +1,0 @@
-C:\git\curso-csharp-04\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
-C:\git\curso-csharp-04\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
-C:\git\curso-csharp-04\Entidades\bin\Debug\Entidades.dll
-C:\git\curso-csharp-04\Entidades\bin\Debug\Entidades.pdb
-C:\git\curso-csharp-04\Entidades\obj\Debug\Entidades.dll
-C:\git\curso-csharp-04\Entidades\obj\Debug\Entidades.pdb
