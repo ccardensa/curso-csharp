@@ -1,0 +1,13 @@
+C:\Users\ccard\source\repos\Ex.Curso.CSharp.2022\Ex.Curso.CSharp.2022\bin\Debug\netcoreapp3.1\Ex.Curso.CSharp.2022.exe
+C:\Users\ccard\source\repos\Ex.Curso.CSharp.2022\Ex.Curso.CSharp.2022\bin\Debug\netcoreapp3.1\Ex.Curso.CSharp.2022.deps.json
+C:\Users\ccard\source\repos\Ex.Curso.CSharp.2022\Ex.Curso.CSharp.2022\bin\Debug\netcoreapp3.1\Ex.Curso.CSharp.2022.runtimeconfig.json
+C:\Users\ccard\source\repos\Ex.Curso.CSharp.2022\Ex.Curso.CSharp.2022\bin\Debug\netcoreapp3.1\Ex.Curso.CSharp.2022.runtimeconfig.dev.json
+C:\Users\ccard\source\repos\Ex.Curso.CSharp.2022\Ex.Curso.CSharp.2022\bin\Debug\netcoreapp3.1\Ex.Curso.CSharp.2022.dll
+C:\Users\ccard\source\repos\Ex.Curso.CSharp.2022\Ex.Curso.CSharp.2022\bin\Debug\netcoreapp3.1\Ex.Curso.CSharp.2022.pdb
+C:\Users\ccard\source\repos\Ex.Curso.CSharp.2022\Ex.Curso.CSharp.2022\obj\Debug\netcoreapp3.1\Ex.Curso.CSharp.2022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ccard\source\repos\Ex.Curso.CSharp.2022\Ex.Curso.CSharp.2022\obj\Debug\netcoreapp3.1\Ex.Curso.CSharp.2022.AssemblyInfoInputs.cache
+C:\Users\ccard\source\repos\Ex.Curso.CSharp.2022\Ex.Curso.CSharp.2022\obj\Debug\netcoreapp3.1\Ex.Curso.CSharp.2022.AssemblyInfo.cs
+C:\Users\ccard\source\repos\Ex.Curso.CSharp.2022\Ex.Curso.CSharp.2022\obj\Debug\netcoreapp3.1\Ex.Curso.CSharp.2022.csproj.CoreCompileInputs.cache
+C:\Users\ccard\source\repos\Ex.Curso.CSharp.2022\Ex.Curso.CSharp.2022\obj\Debug\netcoreapp3.1\Ex.Curso.CSharp.2022.dll
+C:\Users\ccard\source\repos\Ex.Curso.CSharp.2022\Ex.Curso.CSharp.2022\obj\Debug\netcoreapp3.1\Ex.Curso.CSharp.2022.pdb
+C:\Users\ccard\source\repos\Ex.Curso.CSharp.2022\Ex.Curso.CSharp.2022\obj\Debug\netcoreapp3.1\Ex.Curso.CSharp.2022.genruntimeconfig.cache

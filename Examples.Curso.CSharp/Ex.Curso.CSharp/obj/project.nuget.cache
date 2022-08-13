@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "P06B4QZC+QLqvfEWEcBEFwWIDdxHhvCNDWwAQnchub5stXzw+k4Sn6wh52XQ0oJTgbs7jgyJtd24ytp4ThvrLw==",
+  "success": true,
+  "projectFilePath": "C:\\git-ccardenas\\curso-csharp\\Examples.Curso.CSharp\\Ex.Curso.CSharp\\Examples.Curso.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ccard\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}
