@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "P06B4QZC+QLqvfEWEcBEFwWIDdxHhvCNDWwAQnchub5stXzw+k4Sn6wh52XQ0oJTgbs7jgyJtd24ytp4ThvrLw==",
+  "dgSpecHash": "N9y6NfzPEZbRMW2/HQC2Td7AJi22kElH0McmsjI6il3IeTEmBTAUGWikGeM5EF4OchjHflew0zw3VcCbu4Qn+Q==",
   "success": true,
-  "projectFilePath": "C:\\git-ccardenas\\curso-csharp\\Examples.Curso.CSharp\\Ex.Curso.CSharp\\Examples.Curso.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\ccard\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\git-ccardenas\\curso-csharp\\examples\\Ex.Curso.CSharp\\Examples.Curso.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
