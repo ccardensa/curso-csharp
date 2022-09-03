@@ -12,7 +12,8 @@ namespace Examples.Curso
             //Delegados.TestDelegate();
             //BinaryTree();
             BinaryV2 Tree = new BinaryV2();
-            Tree.TreePrint();
+            //Tree.TreePrint();
+            Tree.newTree();
             //ArbolBinarioOrdenado abo = new ArbolBinarioOrdenado();
             //abo.Insertar(100);
             //abo.Insertar(50);
@@ -141,6 +142,9 @@ namespace Examples.Curso
                 Console.WriteLine();
             }
         }
+
+
+        
     }
     
 }

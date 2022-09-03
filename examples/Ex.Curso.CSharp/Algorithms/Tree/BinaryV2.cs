@@ -10,7 +10,8 @@ namespace Examples.Curso.Algorithms.Tree
         private class Node
         {
             public int data;
-            public Node left, right;
+            public Node left;
+            public Node right;
 
             public Node(int data)
             {
@@ -18,8 +19,6 @@ namespace Examples.Curso.Algorithms.Tree
                 this.left = this.right = null;
             }
         }
-
-
 
 
         #region Izquierda y derecha de un arbol
@@ -115,10 +114,14 @@ namespace Examples.Curso.Algorithms.Tree
             if (root == null)
                 return;
 
-            Console.WriteLine(root.data);
+            Console.Write(root.data + ", ");
             PreOrder(root.left);
             PreOrder(root.right);
         }
+
+        //Preorder(root)
+        //Preorder(root.left)
+        //Preorder(root.left.left)
 
         private void InOrder(Node root)
         {
@@ -126,7 +129,7 @@ namespace Examples.Curso.Algorithms.Tree
                 return;
 
             InOrder(root.left);
-            Console.WriteLine(root.data);
+            Console.Write(root.data + ", ");
             InOrder(root.right);
         }
 
@@ -137,16 +140,14 @@ namespace Examples.Curso.Algorithms.Tree
 
             PostOrder(root.left);
             PostOrder(root.right);
-            Console.WriteLine(root.data);
+            Console.Write(root.data + ", ");
         }
 
         int altura = 0;
         private int HeightTree(Node root, int nivel)
         {
-
             if (root != null)
             {
-
                 HeightTree(root.left, nivel + 1);
                 if (nivel > altura)
                     altura = nivel;
@@ -384,6 +385,56 @@ namespace Examples.Curso.Algorithms.Tree
             printLevelOrder(root);
         }
 
+        public void newTree()
+        {
+            Node root = new Node(1); //raíz
+            root.left = new Node(2); //Izquierdo
+            root.left.left = new Node(3); //Izquierdo Izquierdo
+            root.left.right = new Node(4); //Izquierdo Derecho
 
-    }
+            root.right = new Node(5);
+            root.right.left = new Node(18);
+            root.right.right = new Node(6);
+            root.right.right.left = new Node(20);
+            root.right.right.right = new Node(7);
+
+            //pre orden 1,2,3,4,5,18,6,7
+            Console.WriteLine("");
+            Console.WriteLine("pre orden 1,2,3,4,5,18,6,7");
+            Console.WriteLine("");
+            PreOrder(root);
+
+            //in orden 3,2,4,1,5,7,6,18
+            Console.WriteLine("");
+            Console.WriteLine("in orden 3,2,4,1,5,7,6,18");
+            Console.WriteLine("");
+            InOrder(root);
+
+            //post orden 3,2,4,7,6,5,18,1
+            Console.WriteLine("");
+            Console.WriteLine("post orden 3,2,4,7,6,5,18,1");
+            Console.WriteLine("");
+            PostOrder(root);
+
+            Console.WriteLine("Altura");
+            Console.WriteLine(HeightTree(root, 1));
+        }
+
+        //private class Node
+        //{
+        //    public int data;
+        //    public Node left;
+        //    public Node right;
+
+        //    public Node(int data)
+        //    {
+        //        this.data = data;
+        //        this.left = this.right = null;
+        //    }
+        //}
+        //     1
+        //   2
+        // 3  4
+        //
+    }   //
 }
