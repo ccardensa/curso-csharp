@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "cRaYSWlllzgadA0L7oTtqVUlysuBbZ36dRAYVCd+qp/Cp+8Ub2je4Bx5n9iK5+8lpQTtUDo4xBvLbMA/a5aLnA==",
+  "success": true,
+  "projectFilePath": "C:\\git-ccardenas\\curso-csharp\\application\\cl.curso.sistema\\Boletas\\CL.Curso.Boletas.API\\CL.Curso.Boletas.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ccard\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\ccard\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512",
+    "C:\\Users\\ccard\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\ccard\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\ccard\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

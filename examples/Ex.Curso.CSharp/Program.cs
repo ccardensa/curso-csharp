@@ -1,6 +1,9 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using Example.Curso.Entities;
 using Examples.Curso.Algorithms.Tree;
-
+using Examples.Curso.Generics;
 
 namespace Examples.Curso
 {
@@ -11,9 +14,9 @@ namespace Examples.Curso
             //Console.WriteLine("Hello World!");
             //Delegados.TestDelegate();
             //BinaryTree();
-            BinaryV2 Tree = new BinaryV2();
+            //BinaryV2 Tree = new BinaryV2();
             //Tree.TreePrint();
-            Tree.newTree();
+            //Tree.newTree();
             //ArbolBinarioOrdenado abo = new ArbolBinarioOrdenado();
             //abo.Insertar(100);
             //abo.Insertar(50);
@@ -27,7 +30,17 @@ namespace Examples.Curso
             //Console.WriteLine("Impresion postorden: ");
             //abo.ImprimirPost();
             //Console.ReadKey();
+            var entityFactura = new Factura();
+            var entityBoleta = new BoletaHonorario();
+
+            var Factura = new exampleUno<Factura>();
+            var Boleta = new exampleUno<BoletaHonorario>();
+            
+            var some = new exampleDos();
+            var other = some.GenericMetodo<Factura>(entityFactura);
         }
+
+
 
 
         static void BinaryTree()
@@ -143,8 +156,8 @@ namespace Examples.Curso
             }
         }
 
-
         
+
     }
     
 }

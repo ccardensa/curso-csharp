@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hwyKdaPZTGv207wpQPbH/FYdyZj08OZ7PPNQo1Bu9csCkCkLhhubvRNjlgFuQqFdHfvnmAd8HQauvWISBOsO7w==",
+  "success": true,
+  "projectFilePath": "C:\\git-ccardenas\\curso-csharp\\application\\cl.curso.sistema\\Productos\\CL.Curso.Productos.API\\CL.Curso.Productos.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ccard\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}

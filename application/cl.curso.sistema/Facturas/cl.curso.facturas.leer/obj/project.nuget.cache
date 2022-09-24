@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4/3SvOnvQ6i3QZDWqC3KUkecwavJx+kJ6vQC9IN4Fp9KDDWGdp1DwxgmkRrkDgw09H219IRwzccHim07mt/3Sw==",
+  "success": true,
+  "projectFilePath": "C:\\git-ccardenas\\curso-csharp\\application\\cl.curso.sistema\\Facturas\\cl.curso.facturas.leer\\cl.curso.facturas.leer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ccard\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}

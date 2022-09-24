@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "Example.Curso.Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Example.Curso.Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Example.Curso.Entities.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Example.Curso.Entities/1.0.0": {
+      "type": "project",
+      "path": "../Example.Curso.Entities/Example.Curso.Entities.csproj",
+      "msbuildProject": "../Example.Curso.Entities/Example.Curso.Entities.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.1": [
+      "Example.Curso.Entities >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\ccard\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\git-ccardenas\\curso-csharp\\examples\\Example.Curso.Entities\\Example.Curso.Entities.csproj": {
+              "projectPath": "C:\\git-ccardenas\\curso-csharp\\examples\\Example.Curso.Entities\\Example.Curso.Entities.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

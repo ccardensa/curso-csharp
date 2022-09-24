@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Examples.Curso
 {
-    public static class Hola
+    public static class Multiplicar
     {
         public static int MultiplicarHola(int a, int b)
         {

@@ -6,4 +6,8 @@
     <RootNamespace>Examples.Curso</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Example.Curso.Entities\Example.Curso.Entities.csproj" />
+  </ItemGroup>
+
 </Project>
