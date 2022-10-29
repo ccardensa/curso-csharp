@@ -23,12 +23,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "crear", "crear", "{E403FE3C
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "crear", "crear", "{9F804544-7CF1-4B5A-9A68-57D57AD640F9}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "microservicios", "microservicios", "{8940BAC6-8194-4A40-BC1F-73C5E4C53754}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "crear", "crear", "{8B174E75-B748-4AC0-9E1D-FA0A45319183}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "leer", "leer", "{75E14674-C3A3-4830-92A6-FEB082BE35F5}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "leer", "leer", "{1E0891DF-34E0-4335-981E-12826F87B699}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "leer", "leer", "{7BA9AE60-0ACC-46D7-93E5-55E896081B13}"
@@ -53,51 +47,39 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CL.Curso.Pago.API", "Pago\C
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CL.Curso.Productos.API", "Productos\CL.Curso.Productos.API\CL.Curso.Productos.API.csproj", "{82C33FFF-2482-45BA-B81C-336CD8E5D35E}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "cl.curso.productos.crear", "Productos\cl.curso.productos.crear\cl.curso.productos.crear.csproj", "{B98CBCC6-DB6D-4305-BC6D-6219CD41019F}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "cl.curso.productos.leer", "Productos\cl.curso.productos.leer\cl.curso.productos.leer.csproj", "{7BEB43CA-D4A3-4713-972B-92BCBB76A91D}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CL.Curso.Registro.API", "Registro\CL.Curso.Registro.API\CL.Curso.Registro.API.csproj", "{A3F40298-D8A2-4E26-8F69-BDA6BADF0F69}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CL.Curso.Facturas.Domain", "Facturas\CL.Curso.Facturas.Domain\CL.Curso.Facturas.Domain.csproj", "{D84B1FA5-0155-459E-84AA-D5C6FAE29C84}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CL.Curso.Facturas.Domain", "Facturas\CL.Curso.Facturas.Domain\CL.Curso.Facturas.Domain.csproj", "{D84B1FA5-0155-459E-84AA-D5C6FAE29C84}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CL.Curso.Pago.Domain", "Pago\CL.Curso.Pago.Domain\CL.Curso.Pago.Domain.csproj", "{E599FC1B-38E7-4DF5-BD8C-BAA2FEF47229}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CL.Curso.Pago.Domain", "Pago\CL.Curso.Pago.Domain\CL.Curso.Pago.Domain.csproj", "{E599FC1B-38E7-4DF5-BD8C-BAA2FEF47229}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CL.Curso.Pago.Infraestructure", "Pago\CL.Curso.Pago.Infraestructure\CL.Curso.Pago.Infraestructure.csproj", "{0765B8B7-95C8-4C7E-A5C4-7B4D4761C4BC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CL.Curso.Pago.Infraestructure", "Pago\CL.Curso.Pago.Infraestructure\CL.Curso.Pago.Infraestructure.csproj", "{0765B8B7-95C8-4C7E-A5C4-7B4D4761C4BC}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CL.Curso.Facturas.Infraestructure", "Facturas\CL.Curso.Facturas.Infraestructura\CL.Curso.Facturas.Infraestructure.csproj", "{EEE4937F-774C-44B8-9317-9B6F14CA7614}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CL.Curso.Productos.Domain", "Productos\CL.Curso.Productos.Domain\CL.Curso.Productos.Domain.csproj", "{7DAA184A-6504-45D1-A6B8-A66572D49312}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CL.Curso.Productos.Domain", "Productos\CL.Curso.Productos.Domain\CL.Curso.Productos.Domain.csproj", "{7DAA184A-6504-45D1-A6B8-A66572D49312}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CL.Curso.Productos.Infraestructure", "Productos\CL.Curso.Productos.Infraestructure\CL.Curso.Productos.Infraestructure.csproj", "{ED26E651-43E5-4490-9BA6-D3CEAB5D304E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CL.Curso.Productos.Infraestructure", "Productos\CL.Curso.Productos.Infraestructure\CL.Curso.Productos.Infraestructure.csproj", "{ED26E651-43E5-4490-9BA6-D3CEAB5D304E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CL.Curso.Registro.Infraestructure", "Registro\CL.Curso.Registro.Infraestructure\CL.Curso.Registro.Infraestructure.csproj", "{DD10DC21-7CDC-4BCD-9BD8-0653762FC5B2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CL.Curso.Registro.Infraestructure", "Registro\CL.Curso.Registro.Infraestructure\CL.Curso.Registro.Infraestructure.csproj", "{DD10DC21-7CDC-4BCD-9BD8-0653762FC5B2}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CL.Curso.Registro.Domain", "Registro\CL.Curso.Registro.Domain\CL.Curso.Registro.Domain.csproj", "{A00EBD31-A26A-4C5A-9D08-3068FC99C49C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cl.curso.boletas.crear.domain", "Boletas\cl.curso.boletas.crear.domain\cl.curso.boletas.crear.domain.csproj", "{B8D897A6-0558-4433-9F79-011A168053A3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "cl.curso.boletas.crear.domain", "Boletas\cl.curso.boletas.crear.domain\cl.curso.boletas.crear.domain.csproj", "{B8D897A6-0558-4433-9F79-011A168053A3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cl.curso.boletas.crear.infraestructure", "Boletas\cl.curso.boletas.crear.infraestructure\cl.curso.boletas.crear.infraestructure.csproj", "{9F4B419E-5494-4D45-8B27-C0B198A0B76F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "cl.curso.boletas.crear.infraestructure", "Boletas\cl.curso.boletas.crear.infraestructure\cl.curso.boletas.crear.infraestructure.csproj", "{9F4B419E-5494-4D45-8B27-C0B198A0B76F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cl.curso.boletas.leer.domain", "Boletas\cl.curso.boletas.leer.domain\cl.curso.boletas.leer.domain.csproj", "{2A9075EB-79F3-4E56-8F1D-F714902DE6CE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "cl.curso.boletas.leer.domain", "Boletas\cl.curso.boletas.leer.domain\cl.curso.boletas.leer.domain.csproj", "{2A9075EB-79F3-4E56-8F1D-F714902DE6CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cl.curso.boletas.leer.infraestructure", "Boletas\cl.curso.boletas.leer.infraestructure\cl.curso.boletas.leer.infraestructure.csproj", "{476B792C-AD22-4EF6-8331-214E544034FF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "cl.curso.boletas.leer.infraestructure", "Boletas\cl.curso.boletas.leer.infraestructure\cl.curso.boletas.leer.infraestructure.csproj", "{476B792C-AD22-4EF6-8331-214E544034FF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cl.curso.facturas.crear.domain", "Facturas\cl.curso.facturas.crear.domain\cl.curso.facturas.crear.domain.csproj", "{FD34EE0D-F236-45A8-8AA6-B9275B6B3372}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "cl.curso.facturas.crear.domain", "Facturas\cl.curso.facturas.crear.domain\cl.curso.facturas.crear.domain.csproj", "{FD34EE0D-F236-45A8-8AA6-B9275B6B3372}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "cl.curso.facturas.crear.infraestructure", "Facturas\cl.curso.facturas.crear.infraestructure\cl.curso.facturas.crear.infraestructure.csproj", "{20E9C582-36EB-4FE8-BC6E-09584942AE6F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cl.curso.facturas.leer.domain", "Facturas\cl.curso.facturas.leer.domain\cl.curso.facturas.leer.domain.csproj", "{18118CB6-08F2-49CD-BD45-953EFD7E6E31}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "cl.curso.facturas.leer.domain", "Facturas\cl.curso.facturas.leer.domain\cl.curso.facturas.leer.domain.csproj", "{18118CB6-08F2-49CD-BD45-953EFD7E6E31}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cl.curso.facturas.leer.infraestructure", "Facturas\cl.curso.facturas.leer.infraestructure\cl.curso.facturas.leer.infraestructure.csproj", "{04936AF4-9025-4A1D-9CE9-A63A2498AF21}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cl.curso.productos.crear.domain", "Productos\cl.curso.productos.crear.domain\cl.curso.productos.crear.domain.csproj", "{289A6519-5038-4357-A675-63C279967039}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cl.curso.productos.crear.infraestructure", "Productos\cl.curso.productos.crear.infraestructure\cl.curso.productos.crear.infraestructure.csproj", "{18034781-4B7C-476B-988C-2B2CBEAD8110}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cl.curso.productos.leer.domain", "Productos\cl.curso.productos.leer.domain\cl.curso.productos.leer.domain.csproj", "{AD81692B-BE0B-4876-AF80-01F508AF3F7C}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cl.curso.productos.leer.infraestructure", "Productos\cl.curso.productos.leer.infraestructure\cl.curso.productos.leer.infraestructure.csproj", "{1DC08948-C2A6-4DD4-9241-27BD619CA939}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "cl.curso.facturas.leer.infraestructure", "Facturas\cl.curso.facturas.leer.infraestructure\cl.curso.facturas.leer.infraestructure.csproj", "{04936AF4-9025-4A1D-9CE9-A63A2498AF21}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -145,14 +127,6 @@ Global
 		{82C33FFF-2482-45BA-B81C-336CD8E5D35E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{82C33FFF-2482-45BA-B81C-336CD8E5D35E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{82C33FFF-2482-45BA-B81C-336CD8E5D35E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{B98CBCC6-DB6D-4305-BC6D-6219CD41019F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B98CBCC6-DB6D-4305-BC6D-6219CD41019F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B98CBCC6-DB6D-4305-BC6D-6219CD41019F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B98CBCC6-DB6D-4305-BC6D-6219CD41019F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{7BEB43CA-D4A3-4713-972B-92BCBB76A91D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7BEB43CA-D4A3-4713-972B-92BCBB76A91D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7BEB43CA-D4A3-4713-972B-92BCBB76A91D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7BEB43CA-D4A3-4713-972B-92BCBB76A91D}.Release|Any CPU.Build.0 = Release|Any CPU
 		{A3F40298-D8A2-4E26-8F69-BDA6BADF0F69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{A3F40298-D8A2-4E26-8F69-BDA6BADF0F69}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A3F40298-D8A2-4E26-8F69-BDA6BADF0F69}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -221,22 +195,6 @@ Global
 		{04936AF4-9025-4A1D-9CE9-A63A2498AF21}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{04936AF4-9025-4A1D-9CE9-A63A2498AF21}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{04936AF4-9025-4A1D-9CE9-A63A2498AF21}.Release|Any CPU.Build.0 = Release|Any CPU
-		{289A6519-5038-4357-A675-63C279967039}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{289A6519-5038-4357-A675-63C279967039}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{289A6519-5038-4357-A675-63C279967039}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{289A6519-5038-4357-A675-63C279967039}.Release|Any CPU.Build.0 = Release|Any CPU
-		{18034781-4B7C-476B-988C-2B2CBEAD8110}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{18034781-4B7C-476B-988C-2B2CBEAD8110}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{18034781-4B7C-476B-988C-2B2CBEAD8110}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{18034781-4B7C-476B-988C-2B2CBEAD8110}.Release|Any CPU.Build.0 = Release|Any CPU
-		{AD81692B-BE0B-4876-AF80-01F508AF3F7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AD81692B-BE0B-4876-AF80-01F508AF3F7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AD81692B-BE0B-4876-AF80-01F508AF3F7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AD81692B-BE0B-4876-AF80-01F508AF3F7C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{1DC08948-C2A6-4DD4-9241-27BD619CA939}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1DC08948-C2A6-4DD4-9241-27BD619CA939}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1DC08948-C2A6-4DD4-9241-27BD619CA939}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1DC08948-C2A6-4DD4-9241-27BD619CA939}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -247,9 +205,6 @@ Global
 		{6001DB5A-BAF1-4A8E-A2B8-A396AE8EB26F} = {D4CD9A90-F774-429A-8160-727906E52DC1}
 		{E403FE3C-C54E-4347-9EBB-212C2B347C8F} = {BB2E5644-2B67-42C4-B5FD-10A86708E70B}
 		{9F804544-7CF1-4B5A-9A68-57D57AD640F9} = {F5CC4D8C-477C-4E3A-85D5-90924D521611}
-		{8940BAC6-8194-4A40-BC1F-73C5E4C53754} = {2E3FB4F5-0E60-43A5-9BF0-0500413581B9}
-		{8B174E75-B748-4AC0-9E1D-FA0A45319183} = {8940BAC6-8194-4A40-BC1F-73C5E4C53754}
-		{75E14674-C3A3-4830-92A6-FEB082BE35F5} = {8940BAC6-8194-4A40-BC1F-73C5E4C53754}
 		{1E0891DF-34E0-4335-981E-12826F87B699} = {F5CC4D8C-477C-4E3A-85D5-90924D521611}
 		{7BA9AE60-0ACC-46D7-93E5-55E896081B13} = {BB2E5644-2B67-42C4-B5FD-10A86708E70B}
 		{CBCAD065-5B2A-434A-AF30-1E480D30FE29} = {A138F6BB-C21C-41B4-A1F5-7A85FF185894}
@@ -262,8 +217,6 @@ Global
 		{213A7AB2-334C-436A-82D7-86C319684F86} = {1E0891DF-34E0-4335-981E-12826F87B699}
 		{E4CCDF2E-3819-4A05-8AE1-8550864F8E72} = {D4CD9A90-F774-429A-8160-727906E52DC1}
 		{82C33FFF-2482-45BA-B81C-336CD8E5D35E} = {2E3FB4F5-0E60-43A5-9BF0-0500413581B9}
-		{B98CBCC6-DB6D-4305-BC6D-6219CD41019F} = {8B174E75-B748-4AC0-9E1D-FA0A45319183}
-		{7BEB43CA-D4A3-4713-972B-92BCBB76A91D} = {75E14674-C3A3-4830-92A6-FEB082BE35F5}
 		{A3F40298-D8A2-4E26-8F69-BDA6BADF0F69} = {4D7A5875-3D85-4163-81D3-8DCAE8D88E9D}
 		{D84B1FA5-0155-459E-84AA-D5C6FAE29C84} = {0C4D8E37-9C4F-486E-AD1C-6B7759A5749D}
 		{E599FC1B-38E7-4DF5-BD8C-BAA2FEF47229} = {D4CD9A90-F774-429A-8160-727906E52DC1}
@@ -281,10 +234,6 @@ Global
 		{20E9C582-36EB-4FE8-BC6E-09584942AE6F} = {9F804544-7CF1-4B5A-9A68-57D57AD640F9}
 		{18118CB6-08F2-49CD-BD45-953EFD7E6E31} = {1E0891DF-34E0-4335-981E-12826F87B699}
 		{04936AF4-9025-4A1D-9CE9-A63A2498AF21} = {1E0891DF-34E0-4335-981E-12826F87B699}
-		{289A6519-5038-4357-A675-63C279967039} = {8B174E75-B748-4AC0-9E1D-FA0A45319183}
-		{18034781-4B7C-476B-988C-2B2CBEAD8110} = {8B174E75-B748-4AC0-9E1D-FA0A45319183}
-		{AD81692B-BE0B-4876-AF80-01F508AF3F7C} = {75E14674-C3A3-4830-92A6-FEB082BE35F5}
-		{1DC08948-C2A6-4DD4-9241-27BD619CA939} = {75E14674-C3A3-4830-92A6-FEB082BE35F5}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {FEEFB508-FBA2-49E4-9CB2-639501E71D06}

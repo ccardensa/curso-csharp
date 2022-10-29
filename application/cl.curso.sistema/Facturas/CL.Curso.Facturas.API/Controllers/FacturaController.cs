@@ -25,7 +25,7 @@ namespace CL.Curso.Facturas.API.Controllers
         }
         // GET: api/<ValuesController>
         [HttpGet]
-        public IEnumerable<Factura> Leer()
+        public IEnumerable<Factura> Get()
         {
             //cl.curso.facturas.leer
             
@@ -45,7 +45,7 @@ namespace CL.Curso.Facturas.API.Controllers
         }
 
         [HttpPost]
-        public IEnumerable<DocumentoElectronico> Crear(Factura value)
+        public IEnumerable<DocumentoElectronico> Create(Factura value)
         {
             //cl.curso.facturas.crear
 

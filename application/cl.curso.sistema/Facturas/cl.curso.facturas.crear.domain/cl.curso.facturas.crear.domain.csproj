@@ -4,4 +4,8 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\cl.curso.facturas.crear.infraestructure\cl.curso.facturas.crear.infraestructure.csproj" />
+  </ItemGroup>
+
 </Project>
