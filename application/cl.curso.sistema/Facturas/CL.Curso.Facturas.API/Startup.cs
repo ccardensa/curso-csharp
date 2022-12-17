@@ -11,6 +11,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
+
+
 namespace cl.curso.sistema
 {
     public class Startup
@@ -26,9 +28,10 @@ namespace cl.curso.sistema
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
-
+            //services.AddSwaggerGen(c => { c.EnableAnnotations(); });
             services.AddSwaggerGen(options =>
             {
+                
                 options.SwaggerDoc("v2", new Microsoft.OpenApi.Models.OpenApiInfo
                 {
                     Title = "Place Info Service API",

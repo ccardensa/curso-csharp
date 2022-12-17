@@ -32,6 +32,7 @@ namespace cl.curso.factura.crear
             
             services.AddSwaggerGen(options =>
             {
+                
                 options.SwaggerDoc("v2", new Microsoft.OpenApi.Models.OpenApiInfo
                 {
                     Title = "Place Info Service API",

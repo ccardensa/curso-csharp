@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ReFrmxtA2obs7oajaL0E9Je/MQIP9pkhQh+Tm9ATkHsuSLjya5SCS7uc+fDyU7A5ipaUW4ViTg3SC/veNhQHTA==",
+  "dgSpecHash": "WLY77lRjC4lBgCsL4mZjGJQ+pNvWvNBVG3ZyCyBCGEy2cHSt9HtaY1QIjErtUK1JIEasoVO1AeovYbNFdVnUSw==",
   "success": true,
   "projectFilePath": "C:\\git-ccardenas\\curso-csharp\\application\\cl.curso.sistema\\Facturas\\cl.curso.factura.crear\\cl.curso.facturas.crear.csproj",
   "expectedPackageFiles": [
@@ -37,6 +37,7 @@
     "C:\\Users\\ccard\\.nuget\\packages\\newtonsoft.json\\10.0.1\\newtonsoft.json.10.0.1.nupkg.sha512",
     "C:\\Users\\ccard\\.nuget\\packages\\runtime.native.system\\4.3.0\\runtime.native.system.4.3.0.nupkg.sha512",
     "C:\\Users\\ccard\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\ccard\\.nuget\\packages\\swashbuckle.aspnetcore.annotations\\6.4.0\\swashbuckle.aspnetcore.annotations.6.4.0.nupkg.sha512",
     "C:\\Users\\ccard\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
     "C:\\Users\\ccard\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
     "C:\\Users\\ccard\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512",

@@ -7,8 +7,12 @@ using System.Text;
 namespace CL.Curso.Productos.Domain.Commands
 {
     //Command = Write
+
+    
     public class ProductosCommands : IProductosCommands
     {
+
+        
         public void DeleteProducto(ProductoModel producto)
         {
             throw new NotImplementedException();
