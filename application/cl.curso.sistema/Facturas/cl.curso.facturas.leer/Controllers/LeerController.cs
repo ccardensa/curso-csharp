@@ -1,5 +1,7 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using cl.curso.facturas.leer.infraestructure;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Logging;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,5 +13,19 @@ namespace cl.curso.facturas.leer.Controllers
     [ApiController]
     public class LeerController : ControllerBase
     {
+        private readonly ILogger<LeerController> _logger;
+  
+        public LeerController(ILogger<LeerController> logger)
+        {
+            _logger = logger;
+        }
+
+        [Route("[action]")]
+        [HttpGet]
+        public bool HealthCheck()
+        {
+            var hola = new MongoConnection();
+            return false;
+        }
     }
 }

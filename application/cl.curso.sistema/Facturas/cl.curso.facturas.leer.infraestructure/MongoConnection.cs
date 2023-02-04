@@ -12,7 +12,7 @@ namespace cl.curso.facturas.leer.infraestructure
         public MongoConnection()
         {
             var client = new MongoClient("mongodb://localhost:27018");
-            var db = client.GetDatabase("SistemaFacturacion");
+            var db = client.GetDatabase("Facturacion");
             Facturas = db.GetCollection<ModelFactura>("LeerFactura");
 
             List<ModelFactura> lst = Facturas.Find<ModelFactura>(f => true).ToList<ModelFactura>();

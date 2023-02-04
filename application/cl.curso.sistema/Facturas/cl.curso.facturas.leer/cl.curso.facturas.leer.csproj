@@ -13,5 +13,9 @@
     <PackageReference Include="Swashbuckle.AspNetCore.Swagger" Version="6.5.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\cl.curso.facturas.leer.infraestructure\cl.curso.facturas.leer.infraestructure.csproj" />
+  </ItemGroup>
+
 
 </Project>
