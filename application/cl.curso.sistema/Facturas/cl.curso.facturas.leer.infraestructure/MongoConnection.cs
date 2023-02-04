@@ -17,7 +17,9 @@ namespace cl.curso.facturas.leer.infraestructure
 
             List<ModelFactura> lst = Facturas.Find<ModelFactura>(f => true).ToList<ModelFactura>();
 
-
+            //TODO: revisar conexión de mongo en Docker
+            //TODO: Implementar el mid que sincriniza la información
+            //TODO: crear una collection en mongo que sea parecida a la entidad de SQL Server
         }
     }
 }
