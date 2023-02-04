@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "ueZsBtZq+hVmy7WGZtuNWasH97wYuRPw0VLvxi7V18ZczUBjuIgeAieqMTRaGKz+NJ5flWZNGvjSGcgEJNGhfA==",
+  "dgSpecHash": "CqGvXBQlG/kJGmoUDZTqUrLBdoZjtHZknv6LHvIKkDWs5gsq8Q2YfRzkIcUpaXBOQkXkZoAv6cFNCJZGQaEmkg==",
   "success": true,
   "projectFilePath": "C:\\git-ccardenas\\curso-csharp\\application\\cl.curso.sistema\\Facturas\\cl.curso.facturas.leer.domain\\cl.curso.facturas.leer.domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ccard\\.nuget\\packages\\mongodb.bson\\2.19.0\\mongodb.bson.2.19.0.nupkg.sha512",
+    "C:\\Users\\ccard\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
